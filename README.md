@@ -1,4 +1,4 @@
-# ECE-4300-Coing-Assignment-1
+# ECE-4300-Coding-Assignment-1
 - mux.v – Selects the next program counter (PC) source: either from PC_from_ExMem or the incrementer.
 
 - pc.v – Stores the current PC value and updates it with the selected next PC address each clock cycle.
